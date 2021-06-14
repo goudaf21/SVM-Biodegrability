@@ -1,5 +1,5 @@
 # Fady Gouda & Griffin Noe
-# CSCI 297a, Test 3
+# CSCI 297
 # Professor Watson
 # November 19, 2020
 
