@@ -1,4 +1,4 @@
-# 297-test-3
+### GOAL
 Creating an SVM classifier to predict the biodegradability of molecules
 
 ### EDA 
